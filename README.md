@@ -1,119 +1,136 @@
-# chess-game-project
-chess game  hand developed   
-## \# ♟️ CHESS GAME PROJECT
+<!-- ================================================== -->
+<!--                    HERO SECTION                    -->
+<!-- ================================================== -->
 
-## 🧾 Project Overview
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=200&section=header&text=CHESS%20GAME&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 
-The **Chess Game Project** is a C++ based implementation of the classic
-strategy board game, Chess.\
-This project demonstrates strong understanding of programming
-fundamentals including:
+<h1 align="center">♟️ Strategic Chess Engine</h1>
+<h3 align="center">A Rule-Based Classic Chess Implementation in C++</h3>
 
--   Object-oriented thinking
--   2D array manipulation
--   Conditional logic
--   Game rules implementation
--   Turn-based system handling
+<p align="center">
+  🎓 Academic Project | 💻 Console-Based Engine | 🧠 Logic-Driven Gameplay
+</p>
 
-------------------------------------------------------------------------
+---
 
-## 🎯 Objectives
+<p align="center">
+  👨‍💻 <strong>Developer:</strong> M. Taha Khuwaja (MTK)<br>
+  🏛️ <strong>Institution:</strong> University of Central Punjab (UCP)<br>
+  📘 <strong>Course:</strong> Programming Fundamentals / OOP
+</p>
 
-✔ Develop a fully functional chess board\
-✔ Implement all standard chess rules\
-✔ Enable two-player gameplay\
-✔ Validate legal moves\
-✔ Detect check and checkmate conditions
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Game-Type-Strategy-darkred?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Board-8x8-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+</p>
 
-------------------------------------------------------------------------
+---
 
-## 🛠️ Technologies Used
+## 🎯 Project Overview
 
--   **Language:** C++\
--   **Concepts:**
-    -   Arrays (2D Board Representation)\
-    -   Loops\
-    -   Conditional Statements\
-    -   Functions\
-    -   File Handling (if implemented)
+This Chess Game is a complete rule-based implementation of the classical board game using **C++ programming concepts**.
 
-------------------------------------------------------------------------
+The project demonstrates strong understanding of:
 
-## ♜ Game Features
+- 2D Array manipulation  
+- Conditional logic  
+- Turn-based control system  
+- Game state management  
+- Move validation algorithms  
 
-### 🔹 Board System
+> ♜ “Every move is calculated. Every rule is enforced.”
 
--   8x8 chess board
--   Proper piece positioning
--   Coordinate-based movement system
+---
 
-### 🔹 Pieces Implemented
+## 🧠 Core Game Logic
 
--   King
--   Queen
--   Rook
--   Bishop
--   Knight
--   Pawn
+### ♟️ Board System
+- 8x8 Matrix representation
+- Coordinate-based input system
+- Real-time board rendering in console
 
-Each piece follows its official movement rules.
+### ♜ Implemented Pieces
+- King
+- Queen
+- Rook
+- Bishop
+- Knight
+- Pawn
 
-------------------------------------------------------------------------
+Each piece follows official chess movement rules.
 
-## ⚙️ Core Functionalities
+---
 
--   Turn-based move control (White & Black)
--   Move validation
--   Capture logic
--   Check detection
--   Checkmate detection (if implemented)
--   Game status display
+## ⚙️ Key Functionalities
 
-------------------------------------------------------------------------
+✔ Turn-based player switching (White / Black)  
+✔ Legal move validation  
+✔ Capture mechanism  
+✔ Check detection  
+✔ Basic checkmate handling (if implemented)  
+✔ Game status display  
 
-## 📊 Program Structure
+---
 
-The program is structured with:
+## 🛠️ Technical Architecture
 
--   Board Initialization Module
--   Move Validation System
--   Piece Movement Logic
--   Game Loop Controller
--   Display Function
+### 🧩 System Structure
 
-------------------------------------------------------------------------
 
-## 💡 Learning Outcomes
+---
 
-Through this project, the following skills were strengthened:
+## 🔍 Algorithmic Highlights
 
--   Logical thinking
--   Algorithm design
--   Debugging skills
--   Game state management
--   Structured programming in C++
+- Conditional branching for piece-specific movement
+- Loop-based scanning for board collision detection
+- Coordinate transformation logic
+- State preservation between turns
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Future Improvements
+## 🚀 Learning Outcomes
 
--   GUI integration (Qt / Web Frontend)
--   AI-based opponent
--   Timer system
--   Save & Load Game Feature
--   Move history tracking
+Through this project, the following skills were enhanced:
 
-------------------------------------------------------------------------
+🧠 Logical thinking  
+📊 Algorithm design  
+🐞 Debugging & testing  
+🔁 Structured programming  
+♟️ Rule-based system modeling  
 
-## 📌 Conclusion
+---
 
-This Chess Game Project demonstrates the practical application of C++
-programming concepts in developing a complex rule-based system. It
-reflects strong problem-solving ability and structured implementation of
-game mechanics.
+## 📈 Possible Future Enhancements
 
-------------------------------------------------------------------------
+- 🤖 AI-based opponent (Minimax Algorithm)
+- 🖥️ GUI version using Qt
+- 💾 Save & Load Game feature
+- 📜 Move history tracker
+- ⏱️ Timer & tournament mode
 
-### 👨‍💻 Developed As Academic Project
+---
 
-Bachelor Level -- Programming Fundamentals / OOP
+## 🏁 Conclusion
+
+This Chess Engine showcases the practical implementation of structured C++ programming in developing a complete strategy-based system.
+
+It reflects:
+
+- Clean logical flow  
+- Strong control structures  
+- Accurate rule enforcement  
+- Systematic problem-solving approach  
+
+---
+
+<p align="center">
+  ♟️ <strong>Built with Logic. Driven by Strategy. Engineered in C++.</strong>
+</p>
+
+<p align="center">
+  ⭐ If you like this project, consider giving it a star.
+</p> 
