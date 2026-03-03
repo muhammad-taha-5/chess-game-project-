@@ -12,6 +12,10 @@
 <p align="center">
   🎓 Academic Project | 💻 Console-Based Engine | 🧠 Logic-Driven Gameplay
 </p>
+---
+<p align="center">
+  ♟️ ♜ ♝ ♞ ♟️ ♚ ♛ ♜ ♟️
+</p>
 
 ---
 
